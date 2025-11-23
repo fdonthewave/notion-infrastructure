@@ -1,0 +1,40 @@
+# Secrets & Credentials
+*.key
+*.pem
+*.p12
+*.pfx
+passwords.txt
+secrets.yml
+.env
+
+# Backups
+*.sql
+*.dump
+*.tar.gz
+*.zip
+*.bak
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+# Personal notes
+NOTES.md
+TODO.txt
+private/
